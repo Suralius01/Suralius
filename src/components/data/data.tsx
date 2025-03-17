@@ -8,7 +8,7 @@ export const data: Data[] = [
   {
     title: "Showcase 1",
     description:
-      "Created an engaging original video edit for “Chili's” for a gig, a famous American casual dining restaurant chain. Used manual transitions and static close ups, used a fast paces song and matched it with the clips.",
+      "Created an engaging original graphic animation short video featuring Selam Tesfaye for TikTok, Instagram, and other social platforms. Focused on high-energy motion graphics, smooth transitions, and eye-catching typography to enhance storytelling. Carefully synchronized animations with a fast-paced soundtrack to maximize impact and viewer retention. Designed with a modern aesthetic to align with social media trends, ensuring high engagement and shareability.",
     source: "showcase1_qauarz",
   },
   {
