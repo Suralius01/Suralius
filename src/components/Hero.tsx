@@ -14,11 +14,11 @@ export default function Hero() {
         <Card className="flex flex-col justify-between text-[hsl(var(--accent))] text-sm md:text-base">
           <CardContent className="pt-5">
             <p>
-              Surafel Sunara is a skilled video editor with two years of professional experience, specializing in content
-              creation, social media reels, and business advertising videos. In addition to editing, he is hands-on with
-              videography, personally overseeing the filming for each project. Surafel is proficient in Adobe Premiere
-              Pro and is adept at using built-in social media editors from Instagram, TikTok, and Facebook to tailor
-              content for various audiences.
+              I’m Surafel Sunara, a dedicated short and long-form video editor with two years of professional experience.
+              I specialize in creating engaging social media content, promotional videos, and compelling visual stories.
+              Beyond just editing, I’m also hands-on with videography, making sure every project starts with high-quality footage.
+              I’m highly proficient in Adobe After Effects and also skilled in using built-in social media editors from Instagram, TikTok, and Facebook
+              to optimize videos for maximum reach and engagement.
             </p>
           </CardContent>
           <CardFooter>
@@ -29,7 +29,7 @@ export default function Hero() {
         <section>
           <Image
             src="/coverphoto.jpg"
-            alt="marcus-go"
+            alt="surafel-sunara"
             width={4000}
             height={3000}
             className="rounded-2xl w-full h-full object-fill"
