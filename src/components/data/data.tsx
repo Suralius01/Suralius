@@ -23,4 +23,10 @@ export const data: Data[] = [
       "Produced a high-impact podcast snippet for “Dagmawi Babi,” designed specifically for TikTok, YouTube Shorts, and other short-form video platforms. Motion graphics styled clip edit for podcast.",
     source: "showcase3_no0syl",
   },
+  {
+    title: "Showcase 4",
+    description:
+      "Produced a high-impact podcast snippet for “Dagmawi Babi,” designed specifically for TikTok, YouTube Shorts, and other short-form video platforms. Motion graphics styled clip edit for podcast.",
+    source: "dkzgbcjsuhbob8aiiees",
+  },
 ];
