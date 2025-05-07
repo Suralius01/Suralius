@@ -15,7 +15,7 @@ export const data: Data[] = [
     title: "Long-Form Sunny V2 Style Edits",
     description:
       "Produced a high-impact podcast snippet for “Dagmawi Babi,” designed specifically for TikTok, YouTube Shorts, and other short-form video platforms. Motion graphics styled clip edit for podcast.",
-    source: "https://res.cloudinary.com/dumf5fs66/video/upload/v1743074717/videos/dkzgbcjsuhbob8aiiees.mp4",
+    source: "Sample_Video_-_Suralius_ykjnsf",
   },
   {
     title: "Short-Form Edit - Podcast Clip",
